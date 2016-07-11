@@ -11,5 +11,11 @@
   },
   "dependencies": {
     "jquery": "^2.1.4"
+  },"consumedServices": {
+    "project-manager": {
+      "versions": {
+        "^2.9.7": "projectManager"
+      }
+    }
   }
 }
